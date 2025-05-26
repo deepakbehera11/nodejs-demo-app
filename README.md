@@ -12,6 +12,7 @@
 
 - Ensured Docker image deployment to DockerHub.
 
-Successfully ran locally through installing npm (npm install) and then starting npm (npm start).
+- Successfully ran locally through installing npm (npm install) and then starting npm (npm start).
+
 
 ![Image](Screenshot.png)
