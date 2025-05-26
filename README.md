@@ -14,4 +14,4 @@
 
 Successfully ran locally through installing npm (npm install) and then starting npm (npm start).
 
-![Image]()
+![Image](Screenshot.png)
